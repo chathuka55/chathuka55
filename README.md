@@ -82,18 +82,17 @@ Tools & Platforms
 ◉ Learning project
 </td> </tr> </table></div>
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"> GitHub Analytics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuka55&label=Profile%20views&color=0e75b6&style=flat" alt="chathuka55" /> </p>
 <div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=chathuka55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuka55&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuka55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF" /><br/><img src="https://github-readme-activity-graph.vercel.app/graph?username=chathuka55&custom_title=Contribution%20Graph&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area_color=A960FF&title_color=FFFFFF&area=true&hide_border=true" width="95%"/></div>
 🏆 GitHub Trophies
-<div align="center">
-
-
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chathuka55" alt="chathuka55" /></a> </p>
 🤝 Connect With Me
 <div align="center">
-LinkedIn
-Stack Overflow
-Gmail
-GitHub
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathuka-jayasekara-013595216/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14852449/chathuka)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chathukajayaseakra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chathuka55)
 
 </div>
 ⚡ Quick Facts
@@ -110,10 +109,18 @@ GitHub
 <img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Looking_For-Internships_|_Junior_Roles_|_Freelance-blue?style=for-the-badge"/>
 <br/><br/>
 
-Profile Views
 
 </div>
-Footer
+
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=30&fontColor=fff)
+
+
+
+
+</div>
 
 
 
