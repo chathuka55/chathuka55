@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```yaml
+
 name: Chathuka Jayasekara
 location: Sri Lanka 🇱🇰
 education: Undergraduate Software Engineer
