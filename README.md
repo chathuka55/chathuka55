@@ -1,153 +1,120 @@
-<!-- ===================== SVG BANNER ===================== -->
-<p align="center">
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#7F00FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E100FF;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="220" fill="url(#grad)" rx="18"/>
-  <text x="50%" y="42%" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="700">
-    Chathuka Jayasekara
-  </text>
-  <text x="50%" y="62%" text-anchor="middle" fill="#f3f3f3" font-size="22">
-    Java • Full-Stack • Systems Developer
-  </text>
-</svg>
-</p>
+<div align="center">
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F75C7E&center=true&vCenter=true&width=650&lines=Undergraduate+Software+Engineer;Java+%7C+Python+%7C+MERN+Developer;POS+Systems+%7C+CCTV+Surveillance+Apps;Building+Real-World+Production+Software" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chathuka%20Jayasekara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20•%20Full-Stack%20•%20Systems%20Developer&descSize=20&descAlignY=55)
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Undergraduate+Software+Engineer+%F0%9F%8E%93;Java+%7C+Python+%7C+MERN+Developer+%F0%9F%92%BB;Building+Production-Ready+Software+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 👋 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🎓 **Undergraduate Software Engineer** from **Sri Lanka**  
-💻 Strong focus on **Java, Python, and Full-Stack Development**  
-🧠 Experienced in **POS systems, surveillance software, and business tools**
+</div>
 
-I specialise in building **real-world, production-ready applications** with clean architecture, scalability, and usability in mind.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-> **Career Objective:**  
-> To contribute to impactful software projects, continuously grow as an engineer, and deliver reliable solutions that solve real business problems.
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
----
+```yaml
+name: Chathuka Jayasekara
+location: Sri Lanka 🇱🇰
+education: Undergraduate Software Engineer
 
-## 🧩 Core Competencies (Recruiter Friendly)
+focus_areas:
+  - Java & Python Development
+  - Full-Stack Web Applications
+  - POS Systems & Business Tools
+  - CCTV Surveillance Software
 
-- ✅ Object-Oriented Programming & Design
-- ✅ REST API Development
-- ✅ Database Design & Optimisation
-- ✅ Offline-first POS Systems
-- ✅ CCTV / RTSP / ONVIF Systems
-- ✅ System Debugging & Performance Tuning
-- ✅ Clean Code & Maintainable Architecture
+currently_building: Real-world production software
+open_for: Internships | Junior Roles | Freelance
+<br clear="right"/>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Skills & Expertise
+<div align="center">
+Domain	Skills
+Architecture	Object-Oriented Design • Clean Architecture • System Design
+APIs	REST API Development • API Integration • Backend Services
+Databases	Database Design • Query Optimization • Data Modeling
+Specializations	Offline POS Systems • CCTV/RTSP/ONVIF • Business Automation
+Practices	Performance Tuning • Debugging • Maintainable Code
+</div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Arsenal
+<div align="center">
+Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,php,cs,kotlin&theme=dark" /> </p>
+Frontend & Mobile
+<p> <img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap,flutter&theme=dark" /> </p>
+Backend & Database
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,docker,aws&theme=dark" /> </p>
+Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" /> </p></div>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
+<div align="center"><table> <tr> <td width="50%">
+🎥 Python CCTV System
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
----
 
-## 💻 Tech Stack
+◉ Multi-camera surveillance
+◉ Motion detection & recording
+◉ RTSP / ONVIF protocol support
+◉ Remote monitoring ready
+</td> <td width="50%">
+💳 Java POS System
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-### 🚀 Programming Languages
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-</p>
 
-### 🌐 Frontend & Mobile
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-</p>
+◉ Billing & repairs modules
+◉ Credit limit tracking
+◉ Printable invoices
+◉ Offline-first architecture
+</td> </tr> <tr> <td width="50%">
+☕ Café POS System
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
-### 🧩 Backend, Databases & Cloud
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
+◉ Fast responsive UI
+◉ Order management
+◉ Real-time billing
+◉ Restaurant optimized
+</td> <td width="50%">
+🏇 Horse Racing System
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
----
+◉ Odds calculation
+◉ Betting logic
+◉ Admin dashboard
+◉ Learning project
+</td> </tr> </table></div>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"> GitHub Analytics
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=chathuka55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuka55&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" /><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuka55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF" /><br/><img src="https://github-readme-activity-graph.vercel.app/graph?username=chathuka55&custom_title=Contribution%20Graph&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area_color=A960FF&title_color=FFFFFF&area=true&hide_border=true" width="95%"/></div>
+🏆 GitHub Trophies
+<div align="center">
 
-## 🌟 Key Projects
 
-### 🧠 Python CCTV Monitoring System
-- Multi-camera surveillance platform
-- Motion detection & recording
-- RTSP / ONVIF support
-- Remote monitoring architecture
+</div>
+🤝 Connect With Me
+<div align="center">
+LinkedIn
+Stack Overflow
+Gmail
+GitHub
 
-### 💼 Java POS System (Offline)
-- Billing, repairs & wholesale modules
-- Credit limit & outstanding tracking
-- Printable invoices & reports
-- Designed for real retail environments
+</div>
+⚡ Quick Facts
+<div align="center">
 
-### ☕ Café POS System (React)
-- Fast, responsive UI
-- Order & billing management
-- Designed for cafés & restaurants
 
-### 🏇 Horse Racing Odds & Bets System *(Learning Project)*
-- HTML + CSS + PHP
-- Odds calculation & basic betting logic
-- Educational backend practice
+🧠 Strong logical thinking & system design mindset
+🔧 Love debugging complex systems
+🌱 Always learning & improving
+☕ Coffee-powered late-night coder
+</div>
+<div align="center">
+💼 Open to Opportunities
+<img src="https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Looking_For-Internships_|_Junior_Roles_|_Freelance-blue?style=for-the-badge"/>
+<br/><br/>
 
----
+Profile Views
 
-## 📊 GitHub Performance
+</div>
+Footer
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chathuka55&show_icons=true&theme=radical"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuka55&layout=compact&theme=radical"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chathuka55&theme=radical"/>
-</p>
 
----
 
-## 🔗 Professional Links
 
-<p>
-<a href="https://www.linkedin.com/in/chathuka-jayasekara-013595216">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://stackoverflow.com/users/14852449/chathuka">
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-<a href="mailto:chathukajayaseakra@gmail.com">
-<img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/chathuka55">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-## 🎒 Personal Highlights
-
-- 🧠 Strong logical thinking & system design mindset  
-- 🔧 Enjoy debugging complex systems  
-- 🌱 Passionate about learning & improvement  
-- ☕ Coffee-powered late-night developer  
-
----
-
-⭐ **Open to internships, junior developer roles & freelance work**  
-📩 *Feel free to reach out — I respond fast and professionally.*
