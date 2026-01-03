@@ -1,77 +1,153 @@
-![Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+<!-- ===================== SVG BANNER ===================== -->
+<p align="center">
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7F00FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E100FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#grad)" rx="18"/>
+  <text x="50%" y="42%" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="700">
+    Chathuka Jayasekara
+  </text>
+  <text x="50%" y="62%" text-anchor="middle" fill="#f3f3f3" font-size="22">
+    Java • Full-Stack • Systems Developer
+  </text>
+</svg>
+</p>
 
-# 👋 Hey there, I'm **Chathuka Jayasekara**
-
-🚀 **Undergraduate Java & Fullstack Developer** | Passionate about building intelligent, scalable, and human-centric digital solutions.  
-Every project I create is driven by curiosity, creativity, and a genuine desire to make technology more meaningful.
-
----
-
-## 💻 Skills & Technologies
-
-### 🧠 Programming & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F75C7E&center=true&vCenter=true&width=650&lines=Undergraduate+Software+Engineer;Java+%7C+Python+%7C+MERN+Developer;POS+Systems+%7C+CCTV+Surveillance+Apps;Building+Real-World+Production+Software" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 👋 About Me
 
-- **🧠 Python CCTV Monitoring System**  
-  Intelligent multi-camera surveillance app with motion detection and remote access support.
+🎓 **Undergraduate Software Engineer** from **Sri Lanka**  
+💻 Strong focus on **Java, Python, and Full-Stack Development**  
+🧠 Experienced in **POS systems, surveillance software, and business tools**
 
-- **💼 Java POS System**  
-  A full-featured offline POS system for technology stores, including billing, repairs, and analytics.
+I specialise in building **real-world, production-ready applications** with clean architecture, scalability, and usability in mind.
 
-- **🌐 MERN Salon Management System**  
-  A complete web-based solution for managing appointments, customers, and billing with React + Node.js.
-
----
-
-## 💡 Mission Statement
-
-> _“I code to solve human problems. Delivering good solutions makes me happy and proud.”_
+> **Career Objective:**  
+> To contribute to impactful software projects, continuously grow as an engineer, and deliver reliable solutions that solve real business problems.
 
 ---
 
-## 🔗 Connect with Me
+## 🧩 Core Competencies (Recruiter Friendly)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathuka-jayasekara-013595216)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chathux_j/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chathuka55)
-
----
-
-## 📊 GitHub Stats
-
-![Chathuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chathuka55&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuka55&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chathuka55&theme=radical)](https://git.io/streak-stats)
-![Profile views](https://komarev.com/ghpvc/?username=chathuka55&label=Profile%20views&color=0e75b6&style=flat)
-
+- ✅ Object-Oriented Programming & Design
+- ✅ REST API Development
+- ✅ Database Design & Optimisation
+- ✅ Offline-first POS Systems
+- ✅ CCTV / RTSP / ONVIF Systems
+- ✅ System Debugging & Performance Tuning
+- ✅ Clean Code & Maintainable Architecture
 
 ---
 
-## 🎒 Fun Facts & Interests
+## 💻 Tech Stack
 
-- 🧩 Love designing logical solutions and clean architectures  
-- 🥾 Hiking & exploring nature  
-- 🌱 Advocate for environmental sustainability  
-- ☕ Coffee fuels my late-night coding sessions  
+### 🚀 Programming Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
+</p>
+
+### 🌐 Frontend & Mobile
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+</p>
+
+### 🧩 Backend, Databases & Cloud
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
 
 ---
 
-> Thanks for visiting my profile!  
-> Let’s connect, collaborate, and build something meaningful together. 🌍
+## 🌟 Key Projects
+
+### 🧠 Python CCTV Monitoring System
+- Multi-camera surveillance platform
+- Motion detection & recording
+- RTSP / ONVIF support
+- Remote monitoring architecture
+
+### 💼 Java POS System (Offline)
+- Billing, repairs & wholesale modules
+- Credit limit & outstanding tracking
+- Printable invoices & reports
+- Designed for real retail environments
+
+### ☕ Café POS System (React)
+- Fast, responsive UI
+- Order & billing management
+- Designed for cafés & restaurants
+
+### 🏇 Horse Racing Odds & Bets System *(Learning Project)*
+- HTML + CSS + PHP
+- Odds calculation & basic betting logic
+- Educational backend practice
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chathuka55&show_icons=true&theme=radical"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuka55&layout=compact&theme=radical"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chathuka55&theme=radical"/>
+</p>
+
+---
+
+## 🔗 Professional Links
+
+<p>
+<a href="https://www.linkedin.com/in/chathuka-jayasekara-013595216">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://stackoverflow.com/users/14852449/chathuka">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+<a href="mailto:chathukajayaseakra@gmail.com">
+<img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/chathuka55">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🎒 Personal Highlights
+
+- 🧠 Strong logical thinking & system design mindset  
+- 🔧 Enjoy debugging complex systems  
+- 🌱 Passionate about learning & improvement  
+- ☕ Coffee-powered late-night developer  
+
+---
+
+⭐ **Open to internships, junior developer roles & freelance work**  
+📩 *Feel free to reach out — I respond fast and professionally.*
