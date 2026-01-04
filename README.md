@@ -14,8 +14,11 @@
 
 
 name: Chathuka Jayasekara
-location: Sri Lanka 🇱🇰
-education: Undergraduate Software Engineer
+</br>
+location: Kandy,Sri Lanka 🇱🇰
+</br>
+education: Undergraduate Software Engineer at Open University of Sri Lanka
+</br>
 
 focus_areas:
   - Java & Python Development
