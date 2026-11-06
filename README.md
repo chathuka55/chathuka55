@@ -10,7 +10,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Developer Workspace" width="320"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
 name: Chathuka Jayasekara
